@@ -91,8 +91,8 @@ Repositorio destinado al análisis del estado trófico de diversos embalses en l
 
 Desarrollado por **Javier Arellana**
 
-📍 Instituto de Astronomía y Física del Espacio (IAFE), **UBA – CONICET**
-📍 Departamento de Física, Facultad de Ciencias Exactas y Naturales, **Universidad de Buenos Aires**
+* 📍 Instituto de Astronomía y Física del Espacio (IAFE), **UBA – CONICET**
+* 📍 Departamento de Física, Facultad de Ciencias Exactas y Naturales, **Universidad de Buenos Aires**
 
 ---
 
